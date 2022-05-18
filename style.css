@@ -1,11 +1,13 @@
+* {
+    font-family: 'Koulen', cursive;
+    
+}
+
 .tête
 {
     text-align: center;
 }
-p
-{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 body
 {
     background-color: black;
