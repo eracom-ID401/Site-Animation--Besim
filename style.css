@@ -1,19 +1,15 @@
 * {
-    font-family: 'Koulen', cursive;
-
+  font-family: helvetica;
 }
 
 .tête {
-    text-align: center;
+  text-align: center;
 }
 
 body {
-    background-color: black;
-    color: whitesmoke;
+  background-color: black;
+  color: whitesmoke;
 }
-
 ul {
-    text-align: center;
+  text-align: center;
 }
-
-h2 {}
